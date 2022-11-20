@@ -27,6 +27,7 @@ e = [ 1 3 4 ];
 f = [ 6 7 8 ];
 mul2 = cross(e,f);
 
+
 % Penggabungan Dua Buah Vektor(Concatenate)
 g = [ b e ];
 h = [ b;c' ];
